@@ -7,6 +7,7 @@ public class ContohChar {
 		char huruf2= 'B';
 		char angka= '7';
 		char simbol = '#';
+
 		
 		/*menampilkan nilai variable char*/
 		System.out.println("Contoh variable char:");
